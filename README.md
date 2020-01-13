@@ -8,6 +8,6 @@ My major is industrial engineering so I've studying about artificial intelligenc
 
 My interest thing is to optimize for process in factory.
 
-I will post the my opinions and projects about data science. I use the Python or R to solve the problems. 
+I will post the my opinions and projects about data science. I use the Python or R to solve the problems.
 
 Thank you for reading my posts :)
